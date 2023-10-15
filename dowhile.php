@@ -1,0 +1,9 @@
+<?php
+$i=1;
+$n=5;
+do{
+    $mul=$i*$n;
+    echo"5*$i=$mul<br>";
+    $i++;
+}while($i<=10);
+?>
